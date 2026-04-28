@@ -2,14 +2,7 @@
 
 <br>
 
-```
- ██╗  ██╗ █████╗ ███╗   ██╗ █████╗
- ██║ ██╔╝██╔══██╗████╗  ██║██╔══██╗
- █████╔╝ ███████║██╔██╗ ██║███████║
- ██╔═██╗ ██╔══██║██║╚██╗██║██╔══██║
- ██║  ██╗██║  ██║██║ ╚████║██║  ██║
- ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝
-```
+<img src="https://raw.githubusercontent.com/kana-consultant/.github/main/profile/banner.svg" alt="KANA Consultant" />
 
 ### We don't do slides. We ship.
 
