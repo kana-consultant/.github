@@ -32,25 +32,25 @@ We keep our internal tools and standards in the open. Use them, fork them, impro
 <tr>
 <td width="50%" valign="top">
 
-[**kantor**](https://github.com/kana-consultant/kantor)
+[**KANTOR**](https://github.com/kana-consultant/kantor)
 
 The operational dashboard we built for ourselves first. Project tracking, employee management, activity logs — production-grade, no fluff.
 
 </td>
 <td width="50%" valign="top">
 
-[**saas-boilerplate**](https://github.com/kana-consultant/saas-boilerplate)
+[**KUNCI**](https://github.com/kana-consultant/kunci)
 
-A Moonrepo monorepo starter with auth, multi-tenancy, and billing already wired in. The setup we use on every new SaaS engagement.
+Autonomous AI Sales Development Representative. Captures a lead, researches their company, generates a personalized email sequence, and handles replies — end to end, no humans required.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-[**kana-ui-kit**](https://github.com/kana-consultant/kana-ui-kit)
+[**KABAR**](https://github.com/kana-consultant/kabar)
 
-Component library shared across all our products. Consistent, tested, and opinionated.
+AI-powered content automation platform. Generate SEO articles, manage drafts, and publish to multiple platforms in one click — with scheduling built in.
 
 </td>
 <td width="50%" valign="top">
